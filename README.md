@@ -2,7 +2,6 @@
 
 🌐 As a front-end enthusiast, I specialize in crafting beautiful and responsive user interfaces using the latest web technologies. From HTML and CSS to JavaScript frameworks like React, I love building seamless and intuitive web experiences.
 
-💡 Innovation is my driving force, and I thrive on solving challenges to create elegant solutions. Whether it's a small personal project or a large-scale web application, I approach each task with creativity and attention to detail.
 
 🛠️ My tech toolbox includes:
 
